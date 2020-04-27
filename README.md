@@ -2,7 +2,6 @@
 
 ##### 21600062 Kim Miso
 ##### OSS (#section3) practice - GitHub Pull Request
-
 _____________________
 
 * 이세현 : 
